@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @krzdur
-- 👀 I’m interested in ... making discoveries in user behaviour data with Python as a weapon of choice.
-- 🌱 I’m currently learning ... Bayesian statistics
-- 💞️ I’m happy to participate in developing tools that may optimize data analayst work.
-- 🛠 Tools & technologies I work with daily:
-
 ![tage](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![tag](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![tag](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
